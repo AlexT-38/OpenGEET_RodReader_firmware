@@ -1,7 +1,7 @@
 /*
  * released under GNU GPL v3 
  *
- *  RODREADER 03 (v1.3)
+ *  RODREADER 03 (v0.3)
  *  written by Alex Timiney
  *  April 2014
  * 
